@@ -1,0 +1,7 @@
+## Title: |cff3399FFKab|r Login Music
+## Interface: 90001
+## Author: Kab
+## Version: 1.09
+## Notes: Enables music on the character select screen which fades after log in.
+
+KabLoginMusic.lua
